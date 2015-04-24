@@ -1,0 +1,29 @@
+{
+  "name": "gen_bitmap",
+  "id": "gen_gitmap",
+  "version": "0.0.1",
+  "description": "A simple utility for generating a bitmap object from a list of keys",
+  "keywords": [ "enum", "bitmap", "boolean" ],
+  "author": "Gelin Luo <greenlaw110@gmail.com>",
+  "homepage": "https://github.com/greenlaw110/bitmapjs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/greenlaw110/bitmapjs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/greenlaw110/bitmapjs/issues"
+  },
+  "dependencies": {
+  },
+  "main": "./index.js",
+  "engines": {
+    "node": ">=0.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "licenses": [{
+    "type" : "MIT",
+    "url" : "https://github.com/sergi/jsftp/blob/master/LICENSE"
+  }]
+}
