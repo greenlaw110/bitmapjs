@@ -1,7 +1,7 @@
 {
   "name": "gen_bitmap",
   "id": "gen_gitmap",
-  "version": "0.0.1",
+  "version": "0.0.1-obsolete",
   "description": "A simple utility for generating a bitmap object from a list of keys",
   "keywords": [ "enum", "bitmap", "boolean" ],
   "author": "Gelin Luo <greenlaw110@gmail.com>",
